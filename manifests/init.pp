@@ -6,7 +6,7 @@
 
 class postgresapp {
   package { 'Postgres':
-    source   => 'https://github.com/PostgresApp/PostgresApp/releases/download/9.4.1.2/Postgres-9.4.1.2.zip',
+    source   => 'https://github.com/PostgresApp/PostgresApp/releases/download/9.4.5.0/Postgres-9.4.5.0.zip',
     provider => 'compressed_app',
   }
 }
