@@ -25,7 +25,7 @@ GEM
     hashie (1.2.0)
     hiera (1.0.0)
     highline (1.6.15)
-    json (1.7.7)
+    json (2.0.2)
     json_pure (1.7.7)
     librarian-puppet (0.9.8)
       json
@@ -70,3 +70,6 @@ PLATFORMS
 
 DEPENDENCIES
   cardboard (~> 1.0)
+
+BUNDLED WITH
+   1.11.2
